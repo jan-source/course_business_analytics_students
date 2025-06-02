@@ -5,5 +5,6 @@ Videos for Software Installations
 [Watch Power BI video](./videos/power_bi.mp4)
 
 2. Python
-[Watch Python BI video](./videos/uv_python.mp4)
+<video src="./videos/uv_python.mp4" controls width="500"></video>
+
 https://docs.astral.sh/uv/getting-started/installation/
