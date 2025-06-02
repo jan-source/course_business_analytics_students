@@ -1,10 +1,13 @@
 
-Videos for Software Installations
+<h2>Videos for Software Installations</h2>
 
-1. Power BI
+<h3> Power BI</h3>
 [Watch Power BI video](./videos/power_bi.mp4)
 
-2. Python
-<video src="./videos/uv_python.mp4" controls width="500"></video>
+<h3> Python</h3>
+<a href="https://youtu.be/VEJ_YGFvVFo"><img src="thumbnails/python.png" width="200" alt="Install Python"></a>
 
-https://docs.astral.sh/uv/getting-started/installation/
+<a href="https://docs.astral.sh/uv/getting-started/installation/">
+Link to UV
+</a>
+
