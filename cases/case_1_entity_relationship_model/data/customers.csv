@@ -1,0 +1,51 @@
+city,country_code,customer_id,email,first_name,last_name,phone,postal_code,signup_date,state,street
+Houston,US,C001,françois.smith@web.de,François,Smith,(838) 132-1790,16410,2024-11-24,TX,9095 Park Way
+Los Angeles,US,C002,sergei.li@hotmail.co.uk,Sergei,Li,(896) 678-5470,98664,2024-01-12,WA,8296 Elm Dr
+Marseille,FR,C003,anna.fischer@outlook.com,Anna,Fischer,(912) 769-8732,28451,2025-01-03,,6 Main Boulevard
+San Diego,US,C004,josé.ricci@orange.fr,José,Ricci,(603) 187-2409,99980,2022-11-03,TX,1317 Cedar St
+Naples,IT,C005,soo-jin.schmidt@gmail.com,Soo-jin,Schmidt,(235) 260-9222,55198,2023-12-26,,104 Park Avenue
+San Jose,US,C006,yuki.müller@yahoo.com,Yuki,Müller,(205) 896-3931,77968,2025-03-11,FL,7643 Pine Ln
+Chicago,US,C007,anders.esposito@outlook.com,Anders,Esposito,(850) 284-1051,87349,2025-01-26,NY,4127 Cedar Ave
+Eindhoven,NL,C008,mei.smith@mail.ru,Mei,Smith,(844) 205-4940,2648 NM,2023-03-02,,19 Castle Street
+Utrecht,NL,C009,camille.fernández@gmail.com,Camille,Fernández,(526) 183-9688,6545 SG,2025-01-19,,3 Queen Lane
+Geneva,CH,C010,natasha.chen@gmail.com,Natasha,Chen,(699) 377-1465,4696,2022-12-28,,87 High Lane
+Liverpool,UK,C011,hans.smith@hotmail.co.uk,Hans,Smith,(973) 287-7601,OC 6EC,2022-11-03,,117 Church Avenue
+Philadelphia,US,C012,patricia.eriksson@gmail.com,Patricia,Eriksson,(204) 889-6065,54936,2024-01-13,GA,7716 Pine Ct
+The Hague,NL,C013,natasha.petit@gmail.com,Natasha,Petit,(684) 312-6896,4950 JB,2024-09-28,,116 Queen Lane
+San Diego,US,C014,dmitri.fischer@mail.ru,Dmitri,Fischer,(795) 318-6410,55958,2023-01-25,OR,9740 Cedar Blvd
+Philadelphia,US,C015,jean.nilsson@hotmail.co.uk,Jean,Nilsson,(865) 403-3038,75680,2024-12-05,OR,2261 Park St
+Turin,IT,C016,ivan.lópez@yahoo.com,Ivan,López,(333) 643-1070,36485,2023-02-15,,7 Main Road
+Paris,FR,C017,anna.weber@web.de,Anna,Weber,(546) 769-4549,71526,2023-10-21,,125 Castle Lane
+San Antonio,US,C018,isabel.müller@outlook.com,Isabel,Müller,(303) 901-6210,38220,2024-07-19,NY,5831 Hill Ln
+Seville,ES,C019,anna.nilsson@t-online.de,Anna,Nilsson,(153) 336-6622,43873,2023-09-14,,10 King Lane
+Florence,IT,C020,patricia.bianchi@protonmail.com,Patricia,Bianchi,(704) 618-5709,51725,2022-11-14,,140 High Way
+Philadelphia,US,C021,yuki.colombo@t-online.de,Yuki,Colombo,(478) 123-1250,89198,2024-02-23,MA,2611 Cedar Ln
+Rotterdam,NL,C022,sergei.yang@outlook.com,Sergei,Yang,(341) 807-8965,1490 MW,2022-12-19,,5 Main Way
+Los Angeles,US,C023,anders.williams@yahoo.com,Anders,Williams,(796) 939-7754,48971,2024-08-01,IL,3501 Pine Ct
+Bilbao,ES,C024,patricia.bianchi@yahoo.com,Patricia,Bianchi,(562) 815-3627,80214,2024-12-28,,102 Park Street
+Basel,CH,C025,yuki.martin@web.de,Yuki,Martin,(256) 544-3244,5956,2023-10-23,,7 Main Lane
+Glasgow,UK,C026,dmitri.andersson@orange.fr,Dmitri,Andersson,(603) 870-3990,GY 4XP,2024-08-13,,147 Station Street
+Rotterdam,NL,C027,natasha.romano@mail.ru,Natasha,Romano,(916) 240-4566,4591 LR,2023-02-16,,137 Queen Way
+San Antonio,US,C028,lars.ricci@yahoo.com,Lars,Ricci,(336) 463-9089,19495,2023-11-20,MA,5048 Maple Ct
+Lausanne,CH,C029,mei.yang@yahoo.com,Mei,Yang,(737) 598-2276,2578,2024-04-21,,44 Castle Road
+Chicago,US,C030,anders.chen@mail.ru,Anders,Chen,(255) 109-4475,95405,2024-01-26,FL,5110 Maple Ct
+San Diego,US,C031,chiara.bianchi@hotmail.co.uk,Chiara,Bianchi,(810) 673-9143,28868,2024-07-08,IL,2568 Maple Way
+Dallas,US,C032,chiara.larsson@gmail.com,Chiara,Larsson,(929) 313-9344,54866,2023-04-28,OR,4037 Elm Ct
+Munich,DE,C033,hans.eriksson@orange.fr,Hans,Eriksson,(596) 283-4476,54751,2023-02-13,,100 Victoria Street
+Munich,DE,C034,anya.smirnov@mail.ru,Anya,Smirnov,(921) 660-7429,97915,2023-07-02,,91 Victoria Boulevard
+Frankfurt,DE,C035,pierre.colombo@orange.fr,Pierre,Colombo,(485) 129-7579,96341,2023-08-12,,81 Victoria Road
+Dallas,US,C036,giulia.kuznetsov@t-online.de,Giulia,Kuznetsov,(802) 923-1507,50873,2024-11-02,FL,7006 Pine Rd
+Cologne,DE,C037,ivan.schmidt@gmail.com,Ivan,Schmidt,(652) 960-2760,96882,2023-12-22,,92 Victoria Avenue
+Zurich,CH,C038,freya.smirnov@outlook.com,Freya,Smirnov,(696) 762-3810,6975,2023-07-08,,99 Victoria Road
+San Jose,US,C039,mei.fischer@outlook.com,Mei,Fischer,(909) 372-7420,30472,2024-05-06,GA,2581 Cedar Blvd
+Utrecht,NL,C040,françois.johansson@t-online.de,François,Johansson,(653) 323-7965,4265 CE,2024-07-30,,86 King Way
+Liverpool,UK,C041,mary.nilsson@gmail.com,Mary,Nilsson,(941) 328-6234,HG 3FL,2024-07-08,,113 Park Road
+Nice,FR,C042,sofia.bernard@orange.fr,Sofia,Bernard,(656) 729-7163,28791,2025-03-12,,29 Victoria Road
+Lyon,FR,C043,alessandro.andersson@web.de,Alessandro,Andersson,(757) 306-4924,33574,2022-09-27,,30 Market Road
+San Antonio,US,C044,marco.yang@orange.fr,Marco,Yang,(345) 991-5796,90603,2023-08-09,CA,3186 Cedar St
+Chicago,US,C045,hiroshi.esposito@gmail.com,Hiroshi,Esposito,(543) 728-5269,75175,2022-10-05,NY,5527 Lake Ln
+The Hague,NL,C046,maría.kuznetsov@t-online.de,María,Kuznetsov,(713) 448-4843,5737 WQ,2024-12-11,,27 Victoria Way
+London,UK,C047,james.garcía@gmx.de,James,García,(247) 132-7654,FC 7MW,2023-04-27,,99 Church Street
+The Hague,NL,C048,ji-hoon.lópez@protonmail.com,Ji-hoon,López,(829) 460-7191,3371 JD,2025-02-11,,119 Queen Lane
+Philadelphia,US,C049,robert.nilsson@t-online.de,Robert,Nilsson,(100) 748-2508,47501,2023-12-03,MA,958 Hill Way
+New York,US,C050,marco.schmidt@orange.fr,Marco,Schmidt,(963) 498-2698,43535,2024-08-21,MA,4176 Maple Ct

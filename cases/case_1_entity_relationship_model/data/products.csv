@@ -1,0 +1,22 @@
+category,price,product_id,product_name,stock_quantity
+Electronics,161.44,P001,Sony WH-1000XM4 Noise Cancelling Headphones,14
+Electronics,191.54,P002,Canon EOS R6 Camera,96
+Electronics,109.85,P003,Dell XPS 15 Laptop,85
+Books,43.48,P004,The Alchemist by Paulo Coelho,52
+Books,89.04,P005,Where the Crawdads Sing by Delia Owens,0
+Books,30.53,P006,Educated: A Memoir by Tara Westover,56
+Clothing,49.36,P007,Nike Dri-FIT Training T-Shirt,45
+Clothing,129.16,P008,H&M Slim Fit Dress Shirt,6
+Clothing,54.49,P009,Uniqlo Merino Wool Sweater,10
+Home,177.96,P010,Tempur-Pedic ProAdapt Medium Mattress,83
+Home,12.65,P011,Philips Hue Smart Bulb Starter Kit,0
+Home,88.29,P012,iRobot Roomba i7+ Robot Vacuum,89
+Sports,143.87,P013,Yeti Rambler 20 oz Tumbler,78
+Sports,169.41,P014,Spalding NBA Basketball Hoop,8
+Sports,101.16,P015,Garmin Forerunner 245 GPS Watch,83
+Food,186.62,P016,Bonne Maman Raspberry Preserves,48
+Food,79.59,P017,Barilla Pasta Variety Pack,53
+Food,136.83,P018,Ghirardelli Chocolate Squares Assortment,20
+Health,54.57,P019,Crest 3D White Whitestrips,54
+Health,169.88,P020,Bioderma Sensibio H2O Micellar Water,22
+Health,199.72,P021,Theragun Mini Massage Device,4

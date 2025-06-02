@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "DHL Express",
+    "house_number": 5,
+    "email": "anna.meier@dhl.com",
+    "address": {
+      "street": "Heinrich-Br√ºning-Str.",
+      "city": "Bonn",
+      "code": 53113,
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 2,
+    "name": "DB Schenker",
+    "house_number": 4,
+    "email": "tom.schneider@dbschenker.com",
+    "address": {
+      "street": "Kruppstra√üe",
+      "city": "Essen",
+      "code": 45128,
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Geodis Logistics",
+    "house_number": 26,
+    "email": "s.dubois@geodis.com",
+    "address": {
+      "street": "Rue Jean Mermoz",
+      "city": "Levallois-Perret",
+      "code": 92300,
+      "country": "France"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Kuehne + Nagel",
+    "house_number": 12,
+    "email": "luca.bianchi@kuehne-nagel.com",
+    "address": {
+      "street": "Via Roma",
+      "city": "Milan",
+      "code": 20121,
+      "country": "Italy"
+    }
+  },
+  {
+    "id": 5,
+    "name": "FedEx Europe",
+    "house_number": 3,
+    "email": "e.thompson@fedex.com",
+    "address": {
+      "street": "Avenue des Arts",
+      "city": "Brussels",
+      "code": 1210,
+      "country": "Belgium"
+    }
+  },
+  {
+    "id": 6,
+    "name": "PostNord",
+    "house_number": 1,
+    "email": "jonas.nilsson@postnord.com",
+    "address": {
+      "street": "Terminalgatan",
+      "city": "Malm√∂",
+      "code": "211 20",
+      "country": "Sweden"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Raben Group",
+    "house_number": 2,
+    "email": "m.kowalska@raben-group.com",
+    "address": {
+      "street": "ul. Zwyciƒôstwa",
+      "city": "Pozna≈Ñ",
+      "code": "61-894",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 8,
+    "name": "SEUR",
+    "house_number": 93,
+    "email": "miguel.garcia@seur.com",
+    "address": {
+      "street": "Calle de Embajadores",
+      "city": "Madrid",
+      "code": 28012,
+      "country": "Spain"
+    }
+  },
+  {
+    "id": 9,
+    "name": "UPS",
+    "house_number": 15,
+    "email": "oliver.smith@ups.com",
+    "address": {
+      "street": "Brooklands Road",
+      "city": "Weybridge",
+      "code": "KT13 0YU",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "id": 10,
+    "name": "DPD",
+    "house_number": 7,
+    "email": "claire.dubois@dpd.com",
+    "address": {
+      "street": "Avenue de l'Europe",
+      "city": "Issy-les-Moulineaux",
+      "code": 92130,
+      "country": "France"
+    }
+  }
+]

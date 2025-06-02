@@ -1,0 +1,11 @@
+department,employee_id,first_name,hire_date,last_name,salary
+Sales,E001,Elizabeth,2022-10-30,Taylor,68584
+Marketing,E002,Elizabeth,2025-01-10,Williams,82326
+Sales,E003,Elizabeth,2024-11-02,Wilson,36951
+Finance,E004,Robert,2023-02-15,Wilson,113147
+Marketing,E005,Patricia,2024-02-14,Jones,45715
+Finance,E006,James,2023-11-14,Jones,79021
+IT,E007,Patricia,2024-02-18,Brown,105756
+HR,E008,Elizabeth,2023-07-23,Jones,89497
+IT,E009,William,2025-01-26,Jones,81267
+Finance,E010,Jennifer,2023-03-29,Davis,114506
