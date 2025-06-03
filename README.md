@@ -10,6 +10,7 @@
 <a href="https://youtu.be/PlT4e6zcvxM"><img src="thumbnails/python.png" width="100" alt="Install Python"></a>
 
 <a href="https://docs.astral.sh/uv/getting-started/installation/">
+<br>
 Link to UV
 </a>
 
