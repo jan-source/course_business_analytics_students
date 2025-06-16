@@ -1,0 +1,33 @@
+{
+  "name": "Dark Navy Theme",
+  "dataColors": [
+    "#16283D",
+    "#1F3A5C",
+    "#2D4C75",
+    "#3B5F8E",
+    "#4A71A7",
+    "#5983BF",
+    "#6A95D8"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#16283D",
+  "tableAccent": "#16283D",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontSize": 16,
+            "fontFamily": "Calibri",
+            "color": "#16283D"
+          }
+        ],
+        "labels": [
+          {
+            "color": "#16283D"
+          }
+        ]
+      }
+    }
+  }
+}
