@@ -19,3 +19,18 @@ Link to UV (used in Video for Installation)
 
 </a>
 
+
+<h2> Videos for Teaching Cases</h2>
+<h3> Videos for Case 2: Procurement Reporting </h3>
+
+<h4>
+<a href="https://youtu.be/Mfpr1Y_cnto">
+Data Load in Power BI</a>
+</h4>
+
+
+<h4>
+<a href="https://youtu.be/1Z0GPqjHxzQ">
+Data Model and Calculated Columns in Power BI
+</a>
+</h4>
