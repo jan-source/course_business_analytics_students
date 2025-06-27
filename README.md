@@ -34,3 +34,15 @@ Data Load in Power BI</a>
 Data Model and Calculated Columns in Power BI
 </a>
 </h4>
+
+
+<h2>Recommended Books</h2>
+
+<h4>
+<a href="https://www.statlearning.com/">Introduction to Statistical Learning</a>
+</h4>
+<h4>
+<a href="https://christophm.github.io/interpretable-ml-book/">Explainable Machine Learning</a>
+</h4>
+
+
