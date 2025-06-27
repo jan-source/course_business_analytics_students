@@ -1,13 +1,15 @@
 {
   "name": "Dark Navy Theme",
   "dataColors": [
-    "#16283D",
-    "#1F3A5C",
-    "#2D4C75",
-    "#3B5F8E",
-    "#4A71A7",
+    "#16283D",    
+    "#3B5F8E",    
     "#5983BF",
-    "#6A95D8"
+    "#6A95D8",
+    "#7D4F73",
+    "#FFD700",
+    "#228B22",
+    "#DC143C"
+  
   ],
   "background": "#FFFFFF",
   "foreground": "#16283D",
@@ -25,6 +27,44 @@
         "labels": [
           {
             "color": "#16283D"
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "values": [
+          {
+            "fontFamily": "Calibri",
+            "fontSize": 12,
+            "color": "#16283D"
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontFamily": "Calibri",
+            "fontSize": 14,
+            "color": "#16283D",
+            "fontBold": true
+          }
+        ]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "values": [
+          {
+            "fontFamily": "Calibri",
+            "fontSize": 12,
+            "color": "#16283D"
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontFamily": "Calibri",
+            "fontSize": 14,
+            "color": "#16283D",
+            "fontBold": true
           }
         ]
       }
