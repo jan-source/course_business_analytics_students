@@ -19,6 +19,8 @@ Link to UV (used in Video for Installation)
 
 </a>
 
+<h3><a href="https://www.anaconda.com/download/success"> Python via Anaconda (Alternative)</a></h3>
+
 
 <h2> Videos for Teaching Cases</h2>
 <h3> Videos for Case 2: Procurement Reporting </h3>
