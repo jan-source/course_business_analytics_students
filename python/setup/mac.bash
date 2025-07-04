@@ -16,7 +16,7 @@ uv venv --python=3.13
 source .venv/bin/activate
 
 # Install required packages
-uv pip install scikit-learn pandas numpy matplotlib seaborn jupyter
+uv pip install scikit-learn pandas numpy matplotlib seaborn jupyter openpyxl
 
 # Add the virtual environment as a Jupyter kernel 
 python -m ipykernel install --user --name=python_project --display-name="Python Project Kernel"
