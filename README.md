@@ -6,8 +6,7 @@
 
 
 <h3> Python</h3>
-Link to UV (used in Video for Installation)
-<a href="https://docs.astral.sh/uv/getting-started/installation/"></a> 
+<a href="https://docs.astral.sh/uv/getting-started/installation/">Link to UV (used in Video for Installation)</a> 
 <br>
 
 <h4><a href="https://youtu.be/PlT4e6zcvxM">Installation for Windows</a></h4>
@@ -19,7 +18,9 @@ Link to UV (used in Video for Installation)
 
 </a>
 
-<h3><a href="https://www.anaconda.com/download/success"> Python via Anaconda (Alternative)</a></h3>
+<h3><a href="https://www.anaconda.com/download/success"> Python via Anaconda (Alternative 1)</a></h3>
+
+<h3><a href="https://colab.google/"> Python without installation (Alternative 2)</a></h3>
 
 
 <h2> Videos for Teaching Cases</h2>
