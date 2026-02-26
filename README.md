@@ -1,26 +1,29 @@
 
 <h2>Videos for Software Installations</h2>
 
-<h3><a href="https://youtu.be/K5TFEhUUVBc">Power BI</a></h3>
+<h3><a href="https://youtu.be/K5TFEhUUVBc">1. Power BI</a></h3>
 <a href="https://youtu.be/K5TFEhUUVBc"><img src="thumbnails/powerbi.png" width="100" alt="Install MS Power BI"></a>
 
 
-<h3> Python</h3>
-<a href="https://docs.astral.sh/uv/getting-started/installation/">Link to UV (used in Video for Installation)</a> 
+<h3>2. Python</h3>
+
+<h4><a href="https://www.anaconda.com/download/success"> 1. Option: Python via Anaconda (Recommended)</a></h4>
+<h4><a href="https://youtu.be/sCwamWOv_ow">Video for Installation</a></h4>
+<a href="https://youtu.be/PlT4e6zcvxM"><img src="thumbnails/python.png" width="100" alt="Install Python Windows"></a>
+
+<h4> 2. Option Python via UV (advanced)</h3>
+<a href="https://docs.astral.sh/uv/getting-started/installation/">Link to UV</a> 
 <br>
 
-<h4><a href="https://youtu.be/PlT4e6zcvxM">Installation for Windows</a></h4>
+<h4><a href="https://youtu.be/PlT4e6zcvxM">Video for Installation (Windows)</a></h4>
 <a href="https://youtu.be/PlT4e6zcvxM"><img src="thumbnails/python.png" width="100" alt="Install Python Windows"></a>
 <br>
 
-<h4><a href="https://youtu.be/VteoxFYoqY4">Installation for MacOS</a></h4>
+<h4><a href="https://youtu.be/VteoxFYoqY4">Video for Installation (MacOS)</a></h4>
 <a href="https://youtu.be/VteoxFYoqY4"><img src="thumbnails/python.png" width="100" alt="Install Python MacOS"></a>
 
-</a>
+<h4><a href="https://developers.google.com/colab">3. Option Google Collab (no local installation)</a></h4>
 
-<h3><a href="https://www.anaconda.com/download/success"> Python via Anaconda (Alternative 1)</a></h3>
-
-<h3><a href="https://colab.google/"> Python without installation (Alternative 2)</a></h3>
 
 
 <h2> Videos for Teaching Cases</h2>
