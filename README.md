@@ -1,17 +1,20 @@
 
 <h2>Videos for Software Installations</h2>
 
-<h3><a href="https://youtu.be/K5TFEhUUVBc">1. Power BI</a></h3>
+<h3>1. Power BI</h3>
+<a href="https://youtu.be/K5TFEhUUVBc">Video for Installation</a><br>
 <a href="https://youtu.be/K5TFEhUUVBc"><img src="thumbnails/powerbi.png" width="100" alt="Install MS Power BI"></a>
 
 
 <h3>2. Python</h3>
 
-<h4><a href="https://www.anaconda.com/download/success"> 1. Option: Python via Anaconda (Recommended)</a></h4>
+
+<h4>Option (1): Python via Anaconda (Recommended)</h4>
+<h4><a href="https://www.anaconda.com/download/success"> Download Link</a></h4>
 <h4><a href="https://youtu.be/sCwamWOv_ow">Video for Installation</a></h4>
 <a href="https://youtu.be/PlT4e6zcvxM"><img src="thumbnails/python.png" width="100" alt="Install Python Windows"></a>
 
-<h4> 2. Option Python via UV (advanced)</h3>
+<h4>Option (2) Python via UV (advanced)</h3>
 <a href="https://docs.astral.sh/uv/getting-started/installation/">Link to UV</a> 
 <br>
 
@@ -22,7 +25,8 @@
 <h4><a href="https://youtu.be/VteoxFYoqY4">Video for Installation (MacOS)</a></h4>
 <a href="https://youtu.be/VteoxFYoqY4"><img src="thumbnails/python.png" width="100" alt="Install Python MacOS"></a>
 
-<h4><a href="https://developers.google.com/colab">3. Option Google Collab (no local installation)</a></h4>
+<h4>Option (3) Google Collab (no local installation)</h4>
+<h4><a href="https://developers.google.com/colab">Link to Google Collab</a></h4>
 
 
 
