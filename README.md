@@ -1,10 +1,9 @@
 
-<h2>Videos for Software Installations</h2>
+<h2>Software Installations</h2>
 
 <h3>1. Power BI</h3>
 <a href="https://youtu.be/K5TFEhUUVBc">Video for Installation</a><br>
 <a href="https://youtu.be/K5TFEhUUVBc"><img src="thumbnails/powerbi.png" width="100" alt="Install MS Power BI"></a>
-
 
 <h3>2. Python</h3>
 
@@ -30,21 +29,28 @@
 
 
 
-<h2> Videos for Teaching Cases</h2>
-<h3> Videos for Case 2: Procurement Reporting </h3>
+<h2> Teaching Cases</h2>
 
-<h4>
-<a href="https://youtu.be/Mfpr1Y_cnto">
-Data Load in Power BI</a>
-</h4>
+<h3>Case 1: Entity Relationship Model</h3>
+
+- [Data](teaching_cases/case_1_entity_relationship_model/data)
+- [Solution PDF](teaching_cases/case_1_entity_relationship_model/solution.pdf)
+
+---
+
+<h3> Case 2: Procurement Reporting </h3>
+
+- [How to Load Data in Power BI](https://youtu.be/Mfpr1Y_cnto)
+
+- [How to Model Data Model and Create Calculated Columns in Power BI](https://youtu.be/1Z0GPqjHxzQ)
 
 
-<h4>
-<a href="https://youtu.be/1Z0GPqjHxzQ">
-Data Model and Calculated Columns in Power BI
-</a>
-</h4>
+- [Procurement Dashboard](teaching_cases/case_2_bi_report/procurement_dashboard.pbix)
 
+---
+<h3> Case 3: Predicting Late Purchase Orders </h3>
+
+- [Jupyter Notebooks](teaching_cases/case_3_predicting_late_purchase_orders)
 
 <h2>Recommended Books</h2>
 
