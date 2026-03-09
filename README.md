@@ -50,6 +50,12 @@
 ---
 <h3> Case 3: Predicting Late Purchase Orders </h3>
 
+- [Starting Point](teaching_cases/case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb)
+ ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb))
+
+
+ <h4>Step-by-step Solutions:</h4>
+
 - [First Model with 2 Features](teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb)
  ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb))
 
