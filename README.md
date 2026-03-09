@@ -8,12 +8,16 @@
 <h3>2. Python</h3>
 
 
-<h4>Option (1): Python via Anaconda (Recommended)</h4>
+<h4>1. Option Google Collab (no local installation)</h4>
+<h4><a href="https://developers.google.com/colab">Link to Google Collab</a></h4>
+
+
+<h4>2. Option: Python via Anaconda</h4>
 <h4><a href="https://www.anaconda.com/download/success"> Download Link</a></h4>
 <h4><a href="https://youtu.be/sCwamWOv_ow">Video for Installation</a></h4>
 <a href="https://youtu.be/PlT4e6zcvxM"><img src="thumbnails/python.png" width="100" alt="Install Python Windows"></a>
 
-<h4>Option (2) Python via UV (advanced)</h3>
+<h4>3. Option Python via UV (advanced)</h3>
 <a href="https://docs.astral.sh/uv/getting-started/installation/">Link to UV</a> 
 <br>
 
@@ -23,10 +27,6 @@
 
 <h4><a href="https://youtu.be/VteoxFYoqY4">Video for Installation (MacOS)</a></h4>
 <a href="https://youtu.be/VteoxFYoqY4"><img src="thumbnails/python.png" width="100" alt="Install Python MacOS"></a>
-
-<h4>Option (3) Google Collab (no local installation)</h4>
-<h4><a href="https://developers.google.com/colab">Link to Google Collab</a></h4>
-
 
 
 <h2> Teaching Cases</h2>
@@ -50,7 +50,21 @@
 ---
 <h3> Case 3: Predicting Late Purchase Orders </h3>
 
-- [Jupyter Notebooks](teaching_cases/case_3_predicting_late_purchase_orders)
+- [First Model with 2 Features](teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb)
+ ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb))
+
+- [Model with All Features](teaching_cases/case_3_predicting_late_purchase_orders/2_step_late_procurement_deliveries_all_features.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/2_step_late_procurement_deliveries_all_features.ipynb))
+
+- [Explainable AI Model](teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb))
+
+<h3>Python Intro Notebooks</h3>
+
+- [General Intro Python](python/intro_scripts/general_intro_python.ipynb)
+- [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/intro_scripts/general_intro_python.ipynb)
+- [Intro Pandas](python/intro_scripts/intro_pandas.ipynb)
+- [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/intro_scripts/intro_pandas.ipynb)
 
 <h2>Recommended Books</h2>
 
