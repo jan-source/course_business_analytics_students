@@ -15,7 +15,7 @@
 <h4>2. Option: Python via Anaconda</h4>
 <h4><a href="https://www.anaconda.com/download/success"> Download Link</a></h4>
 <h4><a href="https://youtu.be/sCwamWOv_ow">Video for Installation</a></h4>
-<a href="https://youtu.be/PlT4e6zcvxM"><img src="thumbnails/python.png" width="100" alt="Install Python Windows"></a>
+<a href="https://youtu.be/sCwamWOv_ow"><img src="thumbnails/python.png" width="100" alt="Install Python Windows"></a>
 
 <h4>3. Option Python via UV (advanced)</h3>
 <a href="https://docs.astral.sh/uv/getting-started/installation/">Link to UV</a> 
