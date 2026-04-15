@@ -5,8 +5,7 @@
 <a href="https://youtu.be/K5TFEhUUVBc">Video for Installation</a><br>
 <a href="https://youtu.be/K5TFEhUUVBc"><img src="thumbnails/powerbi.png" width="100" alt="Install MS Power BI"></a>
 
-<h3>2. Python</h3>
-
+<h3>2. Python Installation</h3>
 
 <h4>1. Option Google Collab (no local installation)</h4>
 <h4><a href="https://developers.google.com/colab">Link to Google Collab</a></h4>
@@ -28,6 +27,16 @@
 <h4><a href="https://youtu.be/VteoxFYoqY4">Video for Installation (MacOS)</a></h4>
 <a href="https://youtu.be/VteoxFYoqY4"><img src="thumbnails/python.png" width="100" alt="Install Python MacOS"></a>
 
+<h3>3. Python Intro</h3>
+
+- [General Introduction](python/intro_scripts/general_intro_python.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/intro_scripts/general_intro_python.ipynb))
+
+- [Introduction Pandas (working with data)](python/intro_scripts/intro_pandas.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/intro_scripts/intro_pandas.ipynb))
+
+- [Introduction Forecasting)](python/prediction_models/sales_forecasting.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/prediction_models/sales_forecasting.ipynb))
 
 <h2> Teaching Cases</h2>
 
@@ -67,10 +76,13 @@
 
 <h3>Python Intro Notebooks</h3>
 
-- [General Intro Python](python/intro_scripts/general_intro_python.ipynb)
-- [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/intro_scripts/general_intro_python.ipynb)
-- [Intro Pandas](python/intro_scripts/intro_pandas.ipynb)
-- [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/intro_scripts/intro_pandas.ipynb)
+**General Intro Python** — Covers the fundamentals of Python: variables & data types, basic operations, lists & tuples, dictionaries, control flow (if/elif/else, loops), and functions.
+
+- [Open Notebook](python/intro_scripts/general_intro_python.ipynb) · [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/intro_scripts/general_intro_python.ipynb)
+
+**Intro to Pandas** — Covers importing and working with Excel data using the pandas library: loading files, exploring datasets (shape, dtypes, missing values), data cleaning, working with multiple sheets, and basic statistical summaries.
+
+- [Open Notebook](python/intro_scripts/intro_pandas.ipynb) · [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/intro_scripts/intro_pandas.ipynb)
 
 <h2>Recommended Books</h2>
 
