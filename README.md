@@ -1,11 +1,16 @@
 
+<style>
+h4.indented { margin-left: 16px; }
+a.indented { margin-left: 16px; }
+</style>
+
 <h2>Software Installations</h2>
 
-<h3>1. Power BI</h3>
+<h3>Power BI</h3>
 <a href="https://youtu.be/K5TFEhUUVBc">Video for Installation</a><br>
 <a href="https://youtu.be/K5TFEhUUVBc"><img src="thumbnails/powerbi.png" width="100" alt="Install MS Power BI"></a>
 
-<h3>2. Python Installation</h3>
+<h3>Python Installation</h3>
 
 <h4>1. Option Google Collab (no local installation)</h4>
 <h4><a href="https://developers.google.com/colab">Link to Google Collab</a></h4>
@@ -27,7 +32,7 @@
 <h4><a href="https://youtu.be/VteoxFYoqY4">Video for Installation (MacOS)</a></h4>
 <a href="https://youtu.be/VteoxFYoqY4"><img src="thumbnails/python.png" width="100" alt="Install Python MacOS"></a>
 
-<h3>3. Python Intro</h3>
+<h3>Python Introduction</h3>
 
 - [General Introduction](python/intro_scripts/general_intro_python.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/python/intro_scripts/general_intro_python.ipynb))
