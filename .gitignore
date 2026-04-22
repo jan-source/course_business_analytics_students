@@ -2,3 +2,4 @@
 .DS_Store
 /.vscode
 /teaching_cases/*/*.png
+.ipynb_checkpoints
