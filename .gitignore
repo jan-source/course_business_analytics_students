@@ -3,3 +3,4 @@
 /.vscode
 /teaching_cases/*/*.png
 .ipynb_checkpoints
+/python/google_collab/
