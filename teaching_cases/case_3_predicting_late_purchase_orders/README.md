@@ -2,14 +2,22 @@
 
 This folder contains the notebooks for the teaching case on predicting late procurement deliveries.
 
-## Notebooks
+## Notebooks for this Case
 
-- `0_step_starting_point.ipynb`: starter notebook for students
-- `1_step_late_procurement_deliveries_two_features.ipynb`: first model with two features
-- `2_step_late_procurement_deliveries_all_features.ipynb`: model using all available features
-- `3_step_late_procurement_deliveries_explainable_ai.ipynb`: model interpretation with SHAP
+- [Starter Notebook](teaching_cases/case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb))
 
-## Local Setup with the Project Virtual Environment
+- [First Model with 2 Features](teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb))
+
+- [Model using several Features](teaching_cases/case_3_predicting_late_purchase_orders/2_step_late_procurement_deliveries_all_features.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/2_step_late_procurement_deliveries_all_features.ipynb))
+
+- [Model interpretation with SHAP](teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb))
+
+
+## Local Setup with the Project Virtual Environment <span style="color:red">(can be skipped if Anaconda was used for installing Python)</style>
 
 Run the following commands from the repository root.
 
