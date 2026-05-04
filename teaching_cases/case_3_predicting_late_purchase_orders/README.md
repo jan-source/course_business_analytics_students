@@ -16,6 +16,15 @@ This folder contains the notebooks for the teaching case on predicting late proc
 - [Model interpretation with SHAP](teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb))
 
+- [Notebook Course Day 5 Starting Point](teaching_cases/case_3_predicting_late_purchase_orders/4_starting_point_5_course_day.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/4_starting_point_5_course_day.ipynb))
+
+- [Notebook Course Day 5 Final](teaching_cases/case_3_predicting_late_purchase_orders/5_complete_notebook_5_course_day.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/5_complete_notebook_5_course_day.ipynb))
+
+- [Notebook Course Day 6 Explainable AI](teaching_cases/case_3_predicting_late_purchase_orders/6_complete_notebook_6_course_day_explainable_ai.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/6_complete_notebook_6_course_day_explainable_ai.ipynb))
+
 
 ## Local Setup with the Project Virtual Environment <span style="color:red">(can be skipped if Anaconda was used for installing Python)</style>
 
