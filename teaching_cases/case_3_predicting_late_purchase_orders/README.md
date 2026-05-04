@@ -4,7 +4,7 @@ This folder contains the notebooks for the teaching case on predicting late proc
 
 ## Notebooks for this Case
 
-- [Starter Notebook](teaching_cases/case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb)
+- [Starter Notebook](case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb))
 
 - [First Model with 2 Features](teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb)
