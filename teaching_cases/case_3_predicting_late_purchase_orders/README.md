@@ -25,6 +25,9 @@ This folder contains the notebooks for the teaching case on predicting late proc
 - [Notebook Course Day 6 Explainable AI](6_complete_notebook_6_course_day_explainable_ai.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/6_complete_notebook_6_course_day_explainable_ai.ipynb))
 
+- [Notebook Course Day 6 Days Late Prediction](7_complete_notebook_6_course_day_days_late_prediction.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/7_complete_notebook_6_course_day_days_late_prediction.ipynb))
+
 
 ## Local Setup with the Project Virtual Environment <span style="color:red">(can be skipped if Anaconda was used for installing Python)</style>
 

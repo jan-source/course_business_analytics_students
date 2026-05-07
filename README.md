@@ -79,6 +79,19 @@ a.indented { margin-left: 16px; }
 - [Explainable AI Model](teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb))
 
+
+- [Notebook Course Day 5 Starting Point](teaching_cases/case_3_predicting_late_purchase_orders/4_starting_point_5_course_day.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/4_starting_point_5_course_day.ipynb))
+
+- [Notebook Course Day 5 Final](teaching_cases/case_3_predicting_late_purchase_orders/5_complete_notebook_5_course_day.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/5_complete_notebook_5_course_day.ipynb))
+
+- [Notebook Course Day 6 Explainable AI](teaching_cases/case_3_predicting_late_purchase_orders/6_complete_notebook_6_course_day_explainable_ai.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/6_complete_notebook_6_course_day_explainable_ai.ipynb))
+
+- [Notebook Course Day 6 Days Late Prediction](teaching_cases/case_3_predicting_late_purchase_orders/7_complete_notebook_6_course_day_days_late_prediction.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/main/teaching_cases/case_3_predicting_late_purchase_orders/7_complete_notebook_6_course_day_days_late_prediction.ipynb))
+
 <h3>Python Intro Notebooks</h3>
 
 **General Intro Python** — Covers the fundamentals of Python: variables & data types, basic operations, lists & tuples, dictionaries, control flow (if/elif/else, loops), and functions.
