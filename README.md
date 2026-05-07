@@ -35,13 +35,13 @@ a.indented { margin-left: 16px; }
 <h3>Python Introduction</h3>
 
 - [General Introduction](python/intro_scripts/general_intro_python.ipynb)
-([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/test/python/intro_scripts/general_intro_python.ipynb))
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/dev/python/intro_scripts/general_intro_python.ipynb))
 
 - [Introduction Pandas (working with data)](python/intro_scripts/intro_pandas.ipynb)
-([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/test/python/intro_scripts/intro_pandas.ipynb))
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/dev/python/intro_scripts/intro_pandas.ipynb))
 
 - [Introduction Forecasting)](python/prediction_models/sales_forecasting.ipynb)
-([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/test/python/prediction_models/sales_forecasting.ipynb))
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/dev/python/prediction_models/sales_forecasting.ipynb))
 
 <h2> Teaching Cases</h2>
 
@@ -65,29 +65,29 @@ a.indented { margin-left: 16px; }
 <h3> Case 3: Predicting Late Purchase Orders </h3>
 
 - [Starting Point](teaching_cases/case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb)
- ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/test/teaching_cases/case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb))
+ ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/dev/teaching_cases/case_3_predicting_late_purchase_orders/0_step_starting_point.ipynb))
 
 
  <h4>Step-by-step Solutions:</h4>
 
 - [First Model with 2 Features](teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb)
- ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/test/teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb))
+ ([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/dev/teaching_cases/case_3_predicting_late_purchase_orders/1_step_late_procurement_deliveries_two_features.ipynb))
 
 - [Model with All Features](teaching_cases/case_3_predicting_late_purchase_orders/2_step_late_procurement_deliveries_all_features.ipynb)
-([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/test/teaching_cases/case_3_predicting_late_purchase_orders/2_step_late_procurement_deliveries_all_features.ipynb))
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/dev/teaching_cases/case_3_predicting_late_purchase_orders/2_step_late_procurement_deliveries_all_features.ipynb))
 
 - [Explainable AI Model](teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb)
-([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/test/teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb))
+([Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/dev/teaching_cases/case_3_predicting_late_purchase_orders/3_step_late_procurement_deliveries_explainable_ai.ipynb))
 
 <h3>Python Intro Notebooks</h3>
 
 **General Intro Python** — Covers the fundamentals of Python: variables & data types, basic operations, lists & tuples, dictionaries, control flow (if/elif/else, loops), and functions.
 
-- [Open Notebook](python/intro_scripts/general_intro_python.ipynb) · [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/test/python/intro_scripts/general_intro_python.ipynb)
+- [Open Notebook](python/intro_scripts/general_intro_python.ipynb) · [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/dev/python/intro_scripts/general_intro_python.ipynb)
 
 **Intro to Pandas** — Covers importing and working with Excel data using the pandas library: loading files, exploring datasets (shape, dtypes, missing values), data cleaning, working with multiple sheets, and basic statistical summaries.
 
-- [Open Notebook](python/intro_scripts/intro_pandas.ipynb) · [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/test/python/intro_scripts/intro_pandas.ipynb)
+- [Open Notebook](python/intro_scripts/intro_pandas.ipynb) · [Open in Colab](https://colab.research.google.com/github/jan-source/course_business_analytics_students/blob/dev/python/intro_scripts/intro_pandas.ipynb)
 
 <h2>Recommended Books</h2>
 
