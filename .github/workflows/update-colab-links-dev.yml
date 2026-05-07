@@ -1,0 +1,49 @@
+name: Update Colab links for dev
+
+on:
+  push:
+    branches:
+      - dev
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Replace Colab blob ref with current branch
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          files=(
+            "README.md"
+            "teaching_cases/case_3_predicting_late_purchase_orders/README.md"
+          )
+
+          for f in "${files[@]}"; do
+            if [[ -f "$f" ]]; then
+              perl -i -pe 's#(https://colab\.research\.google\.com/github/jan-source/course_business_analytics_students/blob/)[^/]+/#${1}'"$BRANCH"'/#g' "$f"
+            fi
+          done
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md teaching_cases/case_3_predicting_late_purchase_orders/README.md || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update Colab links for ${GITHUB_REF_NAME} [skip ci]"
+          git push
