@@ -111,9 +111,3 @@ a.indented { margin-left: 16px; }
 <a href="https://christophm.github.io/interpretable-ml-book/">Explainable Machine Learning</a>
 </h4>
 
-<h2>Tools</h2>
-<h4>
-<a href="https://learn.microsoft.com/en-us/windows/powertoys/color-picker">Color Picker for Windows</a>
-</h4>
-
-
